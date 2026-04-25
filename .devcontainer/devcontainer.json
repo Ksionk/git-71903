@@ -1,4 +1,6 @@
-{
+git checkout main
+git pull origin main
+git log --oneline{
   "name": "GitHub Cloud Lab",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
